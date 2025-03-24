@@ -1,4 +1,3 @@
-Claro! Aqui está um modelo de `README.md` para o seu projeto Minital, já formatado para o Git:
 
 ```markdown
 # Minitalk
